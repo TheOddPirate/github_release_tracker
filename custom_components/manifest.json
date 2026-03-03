@@ -1,0 +1,12 @@
+{
+  "domain": "github_release_tracker",
+  "name": "GitHub Release Tracker",
+  "codeowners": ["@TheOddPirate"],
+  "config_flow": true,
+  "documentation": "https://github.com/theoddpirate/github_release_tracker",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "loggers": [],
+  "requirements": [],
+  "version": "1.0.0"
+}

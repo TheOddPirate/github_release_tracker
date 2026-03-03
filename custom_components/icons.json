@@ -1,0 +1,9 @@
+{
+  "entity": {
+    "event": {
+      "github_releases": {
+        "default": "mdi:github"
+      }
+    }
+  }
+}
